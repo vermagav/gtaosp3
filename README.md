@@ -1,4 +1,4 @@
-gtaosp3
-=======
+CS 6210: Advanced Operating Systems
+===================================
 
-GT AOS P3
+Project 3: RPC-Based Proxy Server
