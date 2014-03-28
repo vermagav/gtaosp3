@@ -1,0 +1,455 @@
+> Proxy server initialized with cache policy 0 and cache size 524288
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.016957
+  Number of cache entries deleted for replacement: 0
+  Size remaining in cache: -1
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 0 and cache size 524288
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017500
+  Number of cache entries deleted for replacement: 0
+  Size remaining in cache: -1
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 0 and cache size 1048576
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017283
+  Number of cache entries deleted for replacement: 0
+  Size remaining in cache: -1
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 0 and cache size 1048576
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017174
+  Number of cache entries deleted for replacement: 0
+  Size remaining in cache: -1
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 0 and cache size 3145728
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.016848
+  Number of cache entries deleted for replacement: 0
+  Size remaining in cache: -1
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 0 and cache size 3145728
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017609
+  Number of cache entries deleted for replacement: 0
+  Size remaining in cache: -1
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 1 and cache size 524288
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 18
+  Number of fresh lookups: 74
+  Average elapsed time per request: 0.031304
+  Number of cache entries deleted for replacement: 67
+  Size remaining in cache: 144763
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 1 and cache size 524288
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.016957
+  Number of cache entries deleted for replacement: 21
+  Size remaining in cache: 87059
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 1 and cache size 1048576
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 19
+  Number of fresh lookups: 73
+  Average elapsed time per request: 0.029674
+  Number of cache entries deleted for replacement: 59
+  Size remaining in cache: 66570
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 1 and cache size 1048576
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017065
+  Number of cache entries deleted for replacement: 17
+  Size remaining in cache: 2888
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 1 and cache size 3145728
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 55
+  Number of fresh lookups: 37
+  Average elapsed time per request: 0.018043
+  Number of cache entries deleted for replacement: 7
+  Size remaining in cache: 25583
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 1 and cache size 3145728
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017065
+  Number of cache entries deleted for replacement: 3
+  Size remaining in cache: 104545
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 2 and cache size 524288
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 14
+  Number of fresh lookups: 78
+  Average elapsed time per request: 0.031739
+  Number of cache entries deleted for replacement: 71
+  Size remaining in cache: 58510
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 2 and cache size 524288
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017065
+  Number of cache entries deleted for replacement: 19
+  Size remaining in cache: 24980
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 2 and cache size 1048576
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 21
+  Number of fresh lookups: 71
+  Average elapsed time per request: 0.029674
+  Number of cache entries deleted for replacement: 55
+  Size remaining in cache: 43417
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 2 and cache size 1048576
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017065
+  Number of cache entries deleted for replacement: 13
+  Size remaining in cache: 6766
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 2 and cache size 3145728
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 54
+  Number of fresh lookups: 38
+  Average elapsed time per request: 0.017065
+  Number of cache entries deleted for replacement: 6
+  Size remaining in cache: 279102
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 2 and cache size 3145728
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017174
+  Number of cache entries deleted for replacement: 3
+  Size remaining in cache: 15058
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 3 and cache size 524288
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 15
+  Number of fresh lookups: 77
+  Average elapsed time per request: 0.032391
+  Number of cache entries deleted for replacement: 70
+  Size remaining in cache: 62417
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 3 and cache size 524288
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.017283
+  Number of cache entries deleted for replacement: 19
+  Size remaining in cache: 24700
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 3 and cache size 1048576
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 20
+  Number of fresh lookups: 72
+  Average elapsed time per request: 0.031087
+  Number of cache entries deleted for replacement: 61
+  Size remaining in cache: 60385
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 3 and cache size 1048576
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.016522
+  Number of cache entries deleted for replacement: 13
+  Size remaining in cache: 10356
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 3 and cache size 3145728
+
+
+
+ ----------------------------------------------- 
+
+  batch1.txt
+  Total number of requests: 92
+  Number of cache hits: 53
+  Number of fresh lookups: 39
+  Average elapsed time per request: 0.017391
+  Number of cache entries deleted for replacement: 8
+  Size remaining in cache: 187707
+
+
+ ----------------------------------------------- 
+
+
+
+> Proxy server initialized with cache policy 3 and cache size 3145728
+
+
+
+ ----------------------------------------------- 
+
+  batch2.txt
+  Total number of requests: 92
+  Number of cache hits: 57
+  Number of fresh lookups: 35
+  Average elapsed time per request: 0.016957
+  Number of cache entries deleted for replacement: 3
+  Size remaining in cache: 46517
+
+
+ ----------------------------------------------- 
+
+
